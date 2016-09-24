@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "839ed41f-2d11-488a-b2ce-554623d8e245",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ee4f1c4d-7904-4341-89e7-9001801efd7c" : {
+
+    },
+    "839ed41f-2d11-488a-b2ce-554623d8e245" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ee4f1c4d-7904-4341-89e7-9001801efd7c" : 0,
+    "839ed41f-2d11-488a-b2ce-554623d8e245" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12D92808-0942-45AD-96E0-46491C0CE7F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ee4f1c4d-7904-4341-89e7-9001801efd7c" : "LJFcaipiao\/",
+    "839ed41f-2d11-488a-b2ce-554623d8e245" : "caipiao2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "彩票项目",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/彩票项目\/彩票项目.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/2797873866%40qq.com@code.taobao.org\/svn\/caipiao2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "839ed41f-2d11-488a-b2ce-554623d8e245"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/2797873866%40qq.com@code.taobao.org\/svn\/LJFcaipiao",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ee4f1c4d-7904-4341-89e7-9001801efd7c"
+    }
+  ]
+}

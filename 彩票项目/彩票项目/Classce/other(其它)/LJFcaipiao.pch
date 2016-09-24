@@ -1,0 +1,20 @@
+
+#ifdef __OBJC__//用业判断当前是否是OC文件,在每个OC文件之前,都定义一个这样的宏.
+#ifdef DEBUG
+#define ljfLog(...) NSLog(__VA_ARGS__)
+#else
+#define ljfLog(...) /**/
+#endif
+
+#import "UIBarButtonItem+Extension.h"
+#import "LJFBaseViewController.h"
+#import "UIView+Frame.h"
+
+
+
+#define LJFScreen [UIScreen mainScreen].bounds
+
+
+
+
+#endif
